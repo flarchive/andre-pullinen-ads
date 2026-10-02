@@ -1,15 +1,20 @@
 # andre-pullinen/ads (Archive)
 
-This repository is a permanent, read-only archive of released versions of `andre-pullinen/ads`, preserved by the [Extension Archive for Flarum](https://github.com/flarchive/archive-index).
+This repository is a permanent, read-only archive of released versions of `andre-pullinen/ads`, preserved by [Flarchive](https://github.com/flarchive/archive-index).
+
+> **ARCHIVE NOTICE:** This repository is a permanent, read-only historical archive. It is strictly for preservation, historical audit, and recovery. **Do not install extensions from this archive.** For active forum installations, always use the official package releases on Packagist and the original author's repository.
 
 > **Not affiliated with the Flarum Foundation or the Flarum project.**
 
-## Quick Download
+## Archive Status
 
-- **Latest Archived Version:** `0.2.8`
-- **Flarum Compatibility:** `^0.1.0-beta.14`
-- **Direct Download (.zip):** [Download 0.2.8 (.zip)](https://github.com/flarchive/andre-pullinen-ads/archive/refs/tags/archive/v0.2.8.zip)
-- **All Releases & Tags:** [View All Releases & Tags](https://github.com/flarchive/andre-pullinen-ads/tags)
+- **Latest Archived Release:** `0.2.8`
+- **Target Flarum Compatibility:** `^0.1.0-beta.14`
+- **Declared License:** `MIT`
+- **Upstream Repository:** https://github.com/andre-pullinen/ads.git
+- **All Archived Tags:** [View Tags](https://github.com/flarchive/andre-pullinen-ads/tags)
+
+*Archived source trees are preserved byte-for-byte as immutable tags under `refs/tags/archive/*`. The `main` branch contains only this archive notice.*
 
 ## Archive Catalog
 
